@@ -8,15 +8,15 @@
   IgnorableNamespaces="uap rescap">
 
   <Identity
-    Name="bda048f3-e48f-4079-ba91-e2d5112c1b0a"
-    Publisher="CN=rolan"
+    Name="47246roland31x.PrimitiveChess"
+    Publisher="CN=9D04748D-B648-4D41-AD6F-98933C74E2B2"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="bda048f3-e48f-4079-ba91-e2d5112c1b0a" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="b28bfe34-97df-4c95-9887-ee884c4fbfcb" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
-    <DisplayName>WinUI3-Chess</DisplayName>
-    <PublisherDisplayName>rolan</PublisherDisplayName>
+    <DisplayName>Primitive Chess</DisplayName>
+    <PublisherDisplayName>roland31x</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 
