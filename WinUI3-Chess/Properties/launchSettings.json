@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUI3-Chess (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUI3-Chess (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
